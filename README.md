@@ -4,7 +4,7 @@
 
 # Getting Started
 
-![gif](/src/assets/Gif.webp)
+![gif](/src/assets/gif.gif)
 
 1. First of all you need to clone app repository from github:
 
