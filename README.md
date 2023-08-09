@@ -9,7 +9,8 @@
 1. First of all you need to clone app repository from github:
 
 ```
-https://github.com/Lazzzare/FaqAccordion-React
+https://github.com/Lazzzare/TipCalculator-React
+
 ```
 
 2. Next step requires install all the dependencies.
