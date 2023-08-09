@@ -26,8 +26,8 @@ npm run dev
 
 # Links
 
-- Solution URL: [GitHub Code](https://github.com/Lazzzare/FaqAccordion-React)
-- Live Site URL: [Live Site](https://faq-accordion-reacttsx.netlify.app/)
+- Solution URL: [GitHub Code](https://github.com/Lazzzare/TipCalculator-React)
+- Live Site URL: [Live Site](https://tip-calculator-reacttsx.netlify.app/)
 
 # Built With
 
